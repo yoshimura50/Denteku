@@ -1,0 +1,11 @@
+/* This is a CSS file */
+.box {
+  border: 5px solid #8dd8e2;
+  text-align:center
+}
+
+.boxN {
+  border: 5px solid #8dd8e2;
+  background-color: #8dd8e2;
+}
+
