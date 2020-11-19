@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Page, Button, Toolbar, Row, Col } from "react-onsenui";
 import {notification} from 'onsenui';
-
 import './style.css';
 
 export default class App extends React.Component {
